@@ -1,4 +1,4 @@
-const USA = 'Estados Unidos';
+const USA = 'Estados Unidos'
 const URSS = 'URSS';
 
 const Missions = [
