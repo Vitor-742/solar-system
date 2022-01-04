@@ -1,0 +1,8 @@
+.tdsPlanetas {
+    display: flex;
+}
+
+.planet {
+    width: 100px;
+    display: flex;
+}
