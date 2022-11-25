@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './estilo.css';
+import './Estilo.css';
 
 class PlanetCard extends React.Component {
   render() {

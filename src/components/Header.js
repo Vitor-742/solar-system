@@ -1,4 +1,5 @@
 import React from 'react';
+import './Estilo.css';
 
 class Header extends React.Component {
   render() {
